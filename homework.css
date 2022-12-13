@@ -1,0 +1,52 @@
+#wrap {
+    width: 900px;
+    margin: 0 auto;
+    border: 2px solid black;
+}
+header {
+    width: 200px;
+    float: right;
+    border: 1px solid black;
+    height: 830px;
+    margin: 30px;
+}
+
+
+section, footer {
+    width: 600px;
+    height: 150px;
+    margin-bottom: 30px;
+    border: 2px solid black;
+    margin-left: 30px;
+}
+article {
+    width: 600px;
+    height: 460px;
+    border: 1px solid black;
+    margin-left: 30px;
+    margin-bottom: 30px;
+}
+section {
+    margin-top: 30px;
+    background-color: gray;
+}
+.box1 {
+    width: 400px;
+    height: 125px;
+    margin: 15px;
+    background-color: palevioletred;
+}
+.box2 {
+    width: 400px;
+    height: 155px;
+    margin: 15px;
+    background-color: yellowgreen;
+    float: right;
+}
+.box3 {
+    width: 400px;
+    height: 155px;
+    margin: 105px 15px 0;
+    background-color: yellowgreen;
+    float: left;
+}
